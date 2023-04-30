@@ -1,2 +1,4 @@
 
 this is a shop 
+
+the backend and forntend is html css js
